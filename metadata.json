@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mandei Pegou",
+  "description": "Uma plataforma intuitiva e segura para compartilhamento de arquivos com recursos de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
